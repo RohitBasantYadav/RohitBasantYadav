@@ -1,8 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)](https://RohitBasantYadav.io)
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<p align="center">👋 Hi, I'm a passionate web developer with a strong foundation in JavaScript, HTML, CSS, and modern frontend frameworks like React and Redux. I enjoy building responsive and user-friendly web applications. I'm also exploring problem-solving through DSA challenges to sharpen my coding skills. Let's connect and collaborate on exciting projects!</p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitbasantyadav&label=Profile%20views&color=0e75b6&style=flat" alt="rohitbasantyadav" /> </p>
 
 
