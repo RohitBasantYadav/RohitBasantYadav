@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yadav.rohit.basant@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tABezSlgoJlPLyFVt5ppLRnU_0llmGKH/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l-R4lnzKh36BaQs-IgPDp847crsRWlyV/view?usp=sharing)
   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitbasantyadav" alt="rohitbasantyadav" /></a> </p>
